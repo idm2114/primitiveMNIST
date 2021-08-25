@@ -30,3 +30,8 @@ To be determined.
 * Created a neural network using a basic CNN (convolutional neural network)
     * The network has 98% accuracy on data in the test dataset
     * In practice, seems to be slightly worse, but oh well
+    * We are currently able to take an image of a set of numbers written by 
+        a human and parse them one by one with fairly good results
+
+    * Example: 404-937-3661 
+    * we recover 304-932-3121, so 60% accuracy in realworld application
